@@ -1,0 +1,17 @@
+{
+  "name": "rand-str",
+  "version": "1.0.0",
+  "description": "Generate random strings",
+  "main": "build/src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericoalmeida/rand-str.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericoalmeida/rand-str/issues"
+  },
+  "homepage": "https://github.com/ericoalmeida/rand-str#readme"
+}
