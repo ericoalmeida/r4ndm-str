@@ -12,10 +12,14 @@
   "license": "ISC",
   "engines": {
     "node": ">=18.12.1",
-    "npm":">=18.19.2"
+    "npm": ">=8.19.2"
   },
   "bugs": {
     "url": "https://github.com/ericoalmeida/rand-str/issues"
   },
-  "homepage": "https://github.com/ericoalmeida/rand-str#readme"
+  "homepage": "https://github.com/ericoalmeida/rand-str#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.3.0",
+    "@commitlint/config-conventional": "^17.3.0"
+  }
 }
