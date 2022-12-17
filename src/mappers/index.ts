@@ -1,4 +1,5 @@
 export * from './map-capital-letters'
 export * from './map-numbers'
+export * from './map-similar-characters'
 export * from './map-small-letters'
 export * from './map-symbols'
