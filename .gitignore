@@ -1,3 +1,7 @@
 #folders
 builder
+coverage
 node_modules
+
+#files
+.tsbuildinfo
