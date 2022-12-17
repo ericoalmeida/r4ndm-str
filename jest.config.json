@@ -14,7 +14,8 @@
     "lcov"
   ],
   "roots": [
-    "<rootDir>/src"
+    "<rootDir>/src",
+    "<rootDir>/tests"
   ],
   "testEnvironment": "node",
   "transform": {
