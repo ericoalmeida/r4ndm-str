@@ -1,3 +1,6 @@
 #folders
 builder
 node_modules
+
+#files
+.tsbuildinfo
