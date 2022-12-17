@@ -14,5 +14,7 @@
     "newLine": "lf",
     "strict": true,
     "skipLibCheck": true
-  }
+  },
+  "include": ["src", "tests"],
+  "exclude": ["coverage", "node_modules", "build"]
 }
