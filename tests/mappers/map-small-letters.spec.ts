@@ -1,4 +1,4 @@
-import { characters } from '@src/constants/characters'
+import { characters } from '@src/constants'
 import { mapSmallLetters } from '@src/mappers'
 
 describe('mapSmallLetters', () => {
