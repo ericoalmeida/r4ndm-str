@@ -1,5 +1,5 @@
-import { characters } from '@src/constants'
-import { mapNumbers } from '@src/mappers'
+import { characters } from '../../src/constants'
+import { mapNumbers } from '../../src/mappers'
 
 describe('mapNumbers', () => {
   it('Should map numbers correctly', () => {

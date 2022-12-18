@@ -1,6 +1,6 @@
-import { characters } from '@src/constants'
-import { common } from '@src/constants/common'
-import { mapSimilarCharacters } from '@src/mappers'
+import { characters } from '../../src/constants'
+import { common } from '../../src/constants/common'
+import { mapSimilarCharacters } from '../../src/mappers'
 
 describe('mapSimilarCharacters', () => {
   it('Should exclude all similar characters correctly', () => {

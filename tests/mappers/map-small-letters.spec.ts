@@ -1,5 +1,5 @@
-import { characters } from '@src/constants'
-import { mapSmallLetters } from '@src/mappers'
+import { characters } from '../../src/constants'
+import { mapSmallLetters } from '../../src/mappers'
 
 describe('mapSmallLetters', () => {
   it('Should map small letters correctly', () => {

@@ -1,5 +1,5 @@
-import { characters } from '@src/constants'
-import { mapCapitalLetters } from '@src/mappers'
+import { characters } from '../../src/constants'
+import { mapCapitalLetters } from '../../src/mappers'
 
 describe('mapCapitalLetters', () => {
   it('Should map capital letters correctly', () => {

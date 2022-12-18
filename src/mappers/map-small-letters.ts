@@ -1,4 +1,4 @@
-import { characters } from '@src/constants'
+import { characters } from '../constants'
 
 const mapSmallLetters = (
   useSmallLetters: boolean,

@@ -1,5 +1,4 @@
-import { characters } from '@src/constants'
-import { common } from '@src/constants/common'
+import { characters, common } from '../constants'
 
 const mapSimilarCharacters = (
   excludeSimilarCharacters: boolean,
