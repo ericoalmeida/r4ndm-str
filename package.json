@@ -16,10 +16,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "engines": {
-    "node": ">=18.12.1",
-    "npm": ">=8.19.2"
-  },
   "bugs": {
     "url": "https://github.com/ericoalmeida/rand-str/issues"
   },
