@@ -1,5 +1,5 @@
 {
-  "name": "rand-str",
+  "name": "r4nd-str",
   "version": "1.0.0",
   "description": "Generate random strings",
   "main": "lib/src/index.js",
