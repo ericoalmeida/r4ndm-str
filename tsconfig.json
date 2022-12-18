@@ -9,7 +9,7 @@
     "paths": {},
     "allowJs": true,
     "declaration": true,
-    "outDir": "./build",
+    "outDir": "./lib",
     "removeComments": true,
     "newLine": "lf",
     "strict": true,

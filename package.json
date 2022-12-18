@@ -2,7 +2,7 @@
   "name": "rand-str",
   "version": "1.0.0",
   "description": "Generate random strings",
-  "main": "build/src/index.js",
+  "main": "lib/src/index.js",
   "scripts": {
     "test": "jest --passWithNoTests --silent --noStackTrace --runInBand",
     "test:ci": "npm test -- --coverage",
