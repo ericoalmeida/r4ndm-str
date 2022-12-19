@@ -4,6 +4,8 @@
   "description": "Generate random strings",
   "main": "lib/src/index.js",
   "scripts": {
+    "build": "rimraf .tsbuildinfo && rimraf lib && tsc",
+    "build:production": "npm run build -- -p tsconfig-build.json",
     "lint": "eslint src/**",
     "test": "jest --passWithNoTests --silent --noStackTrace --runInBand",
     "test:ci": "npm test -- --coverage",
