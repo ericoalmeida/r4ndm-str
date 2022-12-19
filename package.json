@@ -4,6 +4,7 @@
   "description": "Generate random strings",
   "main": "lib/src/index.js",
   "scripts": {
+    "lint": "eslint src/**",
     "test": "jest --passWithNoTests --silent --noStackTrace --runInBand",
     "test:ci": "npm test -- --coverage",
     "test:staged": "npm test -- --findRelatedTests",
