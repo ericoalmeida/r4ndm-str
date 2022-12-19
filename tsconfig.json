@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "tsBuildInfoFile": ".tsbuildinfo",
+    "target": "ES5",
+    "module": "CommonJS",
+    "rootDir": "./",
+    "baseUrl": "./",
+    "paths": {},
+    "allowJs": true,
+    "declaration": true,
+    "outDir": "./lib",
+    "removeComments": true,
+    "newLine": "lf",
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["src", "tests"],
+  "exclude": ["coverage", "node_modules", "build"]
+}
