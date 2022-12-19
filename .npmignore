@@ -7,7 +7,7 @@ src
 tests
 
 #files
-.commitlint
+.commitlintrc
 .editorconfig
 .eslintignore
 .eslintrc.json
@@ -15,6 +15,7 @@ tests
 .lintstagedrc
 .nvmrc
 .tsbuildinfo
+jest.config.json
 package-lock.json
 tsconfig.json
-
+tsconfig-build.json
