@@ -1,5 +1,5 @@
 {
-  "name": "r4nd-str",
+  "name": "r4ndm-str",
   "version": "1.0.0",
   "description": "Generate random strings",
   "main": "lib/src/index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ericoalmeida/rand-str.git"
+    "url": "git+https://github.com/ericoalmeida/r4ndm-str.git"
   },
   "keywords": [
     "password",
@@ -25,9 +25,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ericoalmeida/rand-str/issues"
+    "url": "https://github.com/ericoalmeida/r4ndm-str/issues"
   },
-  "homepage": "https://github.com/ericoalmeida/rand-str#readme",
+  "homepage": "https://github.com/ericoalmeida/r4ndm-str#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
     "@commitlint/config-conventional": "^17.3.0",
