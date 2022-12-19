@@ -3,7 +3,7 @@
   "collectCoverage": true,
   "collectCoverageFrom": [
     "<rootDir>/src/**/*.ts",
-    "!<rootDir>/src/main/**"
+    "!<rootDir>/src/protocols/**"
   ],
   "coverageDirectory": "coverage",
   "coveragePathIgnorePatterns": [
@@ -14,7 +14,8 @@
     "lcov"
   ],
   "roots": [
-    "<rootDir>/src"
+    "<rootDir>/src",
+    "<rootDir>/tests"
   ],
   "testEnvironment": "node",
   "transform": {

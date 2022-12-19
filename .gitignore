@@ -1,6 +1,6 @@
 #folders
-builder
 coverage
+lib
 node_modules
 
 #files

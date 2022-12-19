@@ -9,10 +9,12 @@
     "paths": {},
     "allowJs": true,
     "declaration": true,
-    "outDir": "./build",
+    "outDir": "./lib",
     "removeComments": true,
     "newLine": "lf",
     "strict": true,
     "skipLibCheck": true
-  }
+  },
+  "include": ["src", "tests"],
+  "exclude": ["coverage", "node_modules", "build"]
 }
