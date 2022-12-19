@@ -13,7 +13,12 @@
     "type": "git",
     "url": "git+https://github.com/ericoalmeida/rand-str.git"
   },
-  "keywords": [],
+  "keywords": [
+    "password",
+    "random string",
+    "strong password",
+    "random key"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
