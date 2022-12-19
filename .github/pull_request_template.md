@@ -11,6 +11,7 @@
 - [ ] Documentation
 - [ ] Feature
 - [ ] Refactoring
+- [ ] Release
 
 ## How to test?
 
